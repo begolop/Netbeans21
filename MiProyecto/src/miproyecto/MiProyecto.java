@@ -16,10 +16,9 @@ public class MiProyecto {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int numeros[]=new int[10];
+        int numeros[]={5,6,7,8,9,10};
         System.out.println("Porbando github");
-        for(int i=0;i<numeros.length;i++)
-            numeros[i]=5;
+       
         for(int i=0;i<numeros.length;i++)
             System.out.println(numeros[i]);
     }
